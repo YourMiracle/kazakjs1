@@ -1,12 +1,9 @@
-function checkObj() {
-    var first = {};
+function checkObj(first) {
     if (typeof first == 'object'){
         console.log(typeof first)
-    }
-    else {
+    } else {
         console.log('Эта функция принимает только обьект, будте добрый исправить это')
     }
-    return first;
 }
 
-var call = checkObj({1:23,a:74,cc:"cot"});
+checkObj({1:23,a:74,cc:"cot"});
