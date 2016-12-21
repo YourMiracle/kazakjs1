@@ -11,5 +11,12 @@ function stringCancat(first , second ){
 
 var resultStr;
 resultStr = stringCancat('dick' , 'yourAss');
-console.log(resultStr);
+// console.log(resultStr);
 
+var lambda = function () {
+    return 11;
+}; // анонимная функция
+
+(function () {
+
+})(); // самовыполяющаяся функция

@@ -1,21 +1,18 @@
 function onlyNumber() {
-    var first = [];
-    var second = [];
-    for (var index in arguments ){
-        if (typeof arguments[index] == 'number'){
-            first[0].push(arguments[index]);
+    var number = [];
+    var other = [];
+        for (var i in arguments){
+            if (typeof arguments[i] == 'number'){
+                number.push(arguments[i]);
+            }
+            else {
+                other.push(arguments[i]);
+            }
         }
-        if (typeof arguments[index] == 'string'){
-           second[0].push(arguments[index]);
-        }
-        if (typeof arguments[index] == 'boolean'){
-            second[0].push(arguments[index]);
-        }
-        delete second;
+    return number;
+    
 
-    }
-    return first;
 }
 
-var massive = onlyNumber(1, 'wtf', 3, 'wwe', 6);
+var massive = onlyNumber(1, 'wtf', 3, true, 6);
 console.log(massive);
