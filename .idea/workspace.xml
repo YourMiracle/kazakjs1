@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="586a0bb5-7f96-4b97-becc-b7293e9f61ba" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/e4b067b17a3e414083f7420351db272b.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.css" afterPath="$PROJECT_DIR$/index.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/document.js" afterPath="$PROJECT_DIR$/scripts/document.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/exerciseNumber.js" afterPath="$PROJECT_DIR$/scripts/exerciseNumber.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/exerciseObject.js" afterPath="$PROJECT_DIR$/scripts/exerciseObject.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/functions.js" afterPath="$PROJECT_DIR$/scripts/functions.js" />
-    </list>
+    <list default="true" id="586a0bb5-7f96-4b97-becc-b7293e9f61ba" name="Default" comment="" />
     <ignored path="kazakjs.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -267,12 +259,12 @@
       <workItem from="1481938615642" duration="8797000" />
       <workItem from="1482083836161" duration="4555000" />
       <workItem from="1482287794704" duration="6526000" />
-      <workItem from="1482306340554" duration="725000" />
+      <workItem from="1482306340554" duration="766000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20603000" />
+    <option name="totallyTimeSpent" value="20644000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="-4" width="1299" height="772" extended-state="6" />
