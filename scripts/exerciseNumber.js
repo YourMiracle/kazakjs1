@@ -5,8 +5,6 @@ function onlyNumber(number) {
             }
         }
     return number;
-    
-
 }
 
 var massive = onlyNumber([1, 'wtf', 3, true, 6]);
